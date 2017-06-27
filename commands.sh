@@ -9,4 +9,4 @@ python -m SimpleHTTPServer 8888
 python ~/Development/ixmaat0.8.5/scripts\ 4/complexity_analysis.py hibernate-core/src/main/java/org/hibernate/cfg/Configuration.java
 python ~/Development/ixmaat0.8.5/scripts\ 4/git_complexity_trend.py   --start ccc087b --end 46c962e   --file hibernate-core/src/main/java/org/hibernate/cfg/Configuration.java
 maat -l hib_evo.log -c git -a soc > sum_of_coupling.csv
-maat -l hib_evo.log -c git -a coupling
+maat -l hib_evo.log -c git -a coupling > coupling.csv
