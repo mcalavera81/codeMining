@@ -1,0 +1,4 @@
+entity,coupled,degree,average-revs
+Code,End to end Tests,42,50
+Analysis Test,Code,42,49
+Code,Parsers Test,41,49

@@ -1,0 +1,16 @@
+entity,coupled,degree,average-revs
+Admin Models,Admin Views,75,74
+Admin Controllers,Admin Models,68,73
+Admin Controllers,Admin Views,66,89
+Admin Models,Core,54,76
+Core,Services,46,130
+Models,Views,46,47
+Admin Views,Core,44,92
+Admin Controllers,Core,39,91
+Controllers,Models,38,60
+Admin Controllers,Services,35,128
+Admin Models,Services,35,113
+Admin Views,Services,34,129
+Controllers,Views,34,83
+Controllers,Services,33,132
+Admin Controllers,Controllers,31,92
